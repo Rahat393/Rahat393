@@ -1,4 +1,4 @@
-<img src="[[[https://komarev.com/ghpvc/?username=rahat393&label=Profile%20views&color=0e75b6&style=flat](https://www.globalsign.com/application/files/7416/1463/0119/iStock-1152537185.jpg)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP8hFkBSUg0C1I-c3i21vY0MNhNskU_GKqQ&usqp=CAU)](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/271845595_1843974335796611_3385012964282422137_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=9JGY_xFzQFgAX8P8y4C&_nc_ht=scontent.fdac157-1.fna&oh=00_AfBZAa-1hj6LEnGjG7nW0RAmFnZu9zGhKu6NE4MW90319w&oe=64F4A5C5)"   />
+ 
 <h1 align="center">Hi 👋, I'm Rahat</h1>
 <h3 align="center">A passionate MERN Stack Developer From BD</h3>
 
@@ -6,7 +6,7 @@
 
 
  <h3 align="left">About Me</h3>
-- 🌱 I’m currently learning **Next js, Redux**
+- 🌱 I’m currently learning  Next js, Redux
 
 - 📫 How to reach me **rahataminulislam37@gmail.com**
 
