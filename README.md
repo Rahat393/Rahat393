@@ -1,4 +1,4 @@
-<img src="[https://komarev.com/ghpvc/?username=rahat393&label=Profile%20views&color=0e75b6&style=flat](https://www.globalsign.com/application/files/7416/1463/0119/iStock-1152537185.jpg)"   />
+<img src="[[https://komarev.com/ghpvc/?username=rahat393&label=Profile%20views&color=0e75b6&style=flat](https://www.globalsign.com/application/files/7416/1463/0119/iStock-1152537185.jpg)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP8hFkBSUg0C1I-c3i21vY0MNhNskU_GKqQ&usqp=CAU)"   />
 <h1 align="center">Hi 👋, I'm Rahat</h1>
 <h3 align="center">A passionate MERN Stack Developer From BD</h3>
 
