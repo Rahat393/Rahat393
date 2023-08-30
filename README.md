@@ -1,4 +1,4 @@
-<img src="[https://komarev.com/ghpvc/?username=rahat393&label=Profile%20views&color=0e75b6&style=flat](https://www.globalsign.com/application/files/7416/1463/0119/iStock-1152537185.jpg)" alt="rahat393" />
+<img src="[https://komarev.com/ghpvc/?username=rahat393&label=Profile%20views&color=0e75b6&style=flat](https://www.globalsign.com/application/files/7416/1463/0119/iStock-1152537185.jpg)"   />
 <h1 align="center">Hi 👋, I'm Rahat</h1>
 <h3 align="center">A passionate MERN Stack Developer From BD</h3>
 
